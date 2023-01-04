@@ -6,7 +6,6 @@
   "license": "MIT",
   "repository": "https://github.com/syuilo/summaly.git",
   "bugs": "https://github.com/syuilo/summaly/issues",
-  "main": "./built/index.js",
   "types": "./built/index.d.ts",
   "scripts": {
     "start": "node built/server/index.js",
